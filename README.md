@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-Hi there! I'm **Nishant Borkar **, a passionate developer who enjoys building efficient applications and solving complex problems with optimized code.  
+Hi there! I'm Nishant Borkar, a passionate developer who enjoys building efficient applications and solving complex problems with optimized code.  
 
 ## 🛠️ Tech Stack  
 
@@ -17,6 +17,9 @@ Hi there! I'm **Nishant Borkar **, a passionate developer who enjoys building ef
 <p align="left">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+
 </p>
 
 ### 🔹 Databases & Data Handling  
