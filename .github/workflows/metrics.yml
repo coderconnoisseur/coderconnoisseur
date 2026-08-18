@@ -22,42 +22,30 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
 
-          # Main sections
           base: header, activity, community, repositories, metadata
 
-          # 📅 2.5D / isometric contribution calendar
+          # 2.5D contribution graph
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 🈷️ Languages
+          # Languages
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
 
-          # 💡 Coding habits
+          # Coding habits
           plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
 
-          # 🎫 Issues & Pull Requests
-          plugin_followup: yes
-          plugin_followup_sections: user, repos
-
-          # 🎩 Notable contributions
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-
-          # 🌟 Recently starred repositories
-          plugin_stars: yes
-          plugin_stars_limit: 5
-
-          # 📌 Starred topics
+          # Starred topics
           plugin_topics: yes
-          plugin_topics_limit: 12
 
-          # 🏆 Achievements
+          # Recently starred repositories
+          plugin_stars: yes
+
+          # Achievements
           plugin_achievements: yes
 
-          # 🌇 GitHub Skyline
+          # Notable contributions
+          plugin_notable: yes
+
+          # GitHub Skyline
           plugin_skyline: yes
