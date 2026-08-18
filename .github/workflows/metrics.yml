@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
-
+          config_display: large
           base: header, activity, community, repositories, metadata
 
           # 2.5D contribution graph
