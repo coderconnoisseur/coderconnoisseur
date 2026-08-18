@@ -5,7 +5,7 @@ Hi there! I'm Nishant Borkar, a passionate developer who enjoys building efficie
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantborkar)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantborkar)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sisyphus28) 
 [![LeetCode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/nishantborkar28/) 
 
