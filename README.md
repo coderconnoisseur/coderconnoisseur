@@ -1,49 +1,33 @@
-#  Welcome to My GitHub Profile!  
+### Hi, I'm Nishant 👋
 
-Hi there! I'm Nishant Borkar, a passionate developer who enjoys building efficient applications and solving complex problems with optimized code.  
+Backend & AI systems engineer. I build distributed backends in Go and Python, and LLM systems that I measure instead of just demo.
+Currently at **Culinda Inc**. Open to **SWE / AI engineering** roles.
 
+[Portfolio](https://nishantbuilds.me) · [LinkedIn](https://www.linkedin.com/in/nishantborkar) · [Résumé](https://nishantbuilds.me/Nishant_Borkar_Resume.pdf) · nishantborkar28@gmail.com
 
-<h3><b><samp>Connect with Me</samp></b></h3>
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantborkar)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sisyphus28) 
-[![LeetCode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/nishantborkar28/) 
+#### Selected work
 
+| Project | What it is | Proof |
+|---|---|---|
+| [**Guarded Agent Ensemble**](https://github.com/coderconnoisseur/guarded-agent-ensemble) | LLM agent wrapped in 4 defenses adapted from agent-safety papers, A/B evaluated with a composite index | 733 tests; on AgentDojo held-out banking, attack success 39/72 → 0/72; reports where the defenses *hurt* a strong model |
+| [**RidePulse**](https://github.com/coderconnoisseur/ridepulse) | Event-driven ride matching in Go · Kafka · Redis GEO · Prometheus | ~400 RPS intake, successful-match p95 33–84 ms; written-up race-condition and deadline fixes |
+| [**Lumen**](https://github.com/coderconnoisseur/Lumen) | AI money advisor: invoice reading, text-to-SQL agent, hybrid RAG | [Live demo](https://lumen.nishantbuilds.me) · retrieval top-5 hit rate 67 → 100 / 104 with BM25 + reranking |
+| [**EchoLine**](https://github.com/coderconnoisseur/EchoLine) | Offline real-time captions for anything playing on Windows | Caption latency p50 266 ms / p95 438 ms; installer shipped via GitHub Actions releases |
+| [**SpatioX**](https://github.com/coderconnoisseur/SpatioX) | C++17 spatio-temporal index (KD-tree + time index) with Python bindings | 5–20× faster than a linear scan at 1k–50k records |
 
+#### Stack
 
-##  Tech Stack  
+**Languages:** Go · Python · C++ · TypeScript · SQL<br>
+**Backend:** Gin · FastAPI · Flask · Kafka · Redis · PostgreSQL · Docker · Prometheus<br>
+**AI:** LLM agents & evals · LangGraph · RAG (pgvector, BM25, reranking) · speech (Moonshine)
 
-###  Programming & Core Concepts  
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures-008000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
+Competitive programming: [Codeforces](https://codeforces.com/profile/sisyphus28) · [LeetCode](https://leetcode.com/nishantborkar28/)
 
-###  Web & Backend Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-###  Databases & Data Handling  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-B41717?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
 <hr>
 
 ### <samp>Github Stats
 <p align="center">
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
-
-
